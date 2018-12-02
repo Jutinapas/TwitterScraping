@@ -4,10 +4,10 @@ import json
 # Set up TWINT configonfig
 config = twint.Config()
 
-hashtag = "#JamesGunn"
+hashtag = "#GameAwards2018"
 since = "2018-1-1"
 until = ""
-limit = 100000
+limit = 10000
 lang = "en"
 file = "json"
 
