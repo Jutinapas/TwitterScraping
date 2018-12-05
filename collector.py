@@ -5,9 +5,9 @@ import json
 config = twint.Config()
 
 hashtag = "#sundayfunday"
-since = "2018-12-1"
-sunday = "2018-12-2"
-until = "2018-12-4"
+since = "2018-5-12"
+sunday = "2018-5-13"
+until = "2018-5-15"
 # limit = 10000
 # lang = "en"
 file = "json"
