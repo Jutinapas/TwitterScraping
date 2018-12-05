@@ -1,7 +1,7 @@
 import json
 import pickle
 
-directory = "#GameAwards2018_2018-1-1_10000_json"
+directory = "/SundayFunday/2018-11-25"
 
 path = "./" + directory + "/tweets.json"
 target = "./" + directory + "/hashtagsList.txt"
